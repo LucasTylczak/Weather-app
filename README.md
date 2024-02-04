@@ -13,7 +13,7 @@ Ce script utilise l'API OpenWeatherMap pour obtenir les prévisions météorolog
 
 ## Utilisation
 
-1. Clonez ce dépôt sur votre machine locale.
+1. Clonez ce dépôt sur votre machine.
 
 ### Kali Linux
 ```bash
